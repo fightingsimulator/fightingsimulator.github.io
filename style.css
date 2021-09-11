@@ -59,3 +59,20 @@ body{
   transition: all;
   transform: scale(1.06);
 }
+.rb{
+  color: white;
+  background-color: #A9A9A9;
+  margin-left: 300px;
+  margin-right: 300px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-radius: 60px;
+  font-family: impact;
+  font-size: 60px;
+  transition: 1s all;
+  cursor: default;
+}
+.rb:hover{
+  transition: all;
+  transform: scale(1.06);
+}
