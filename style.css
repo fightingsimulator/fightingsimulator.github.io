@@ -25,3 +25,11 @@ body{
   transition: all;
   transform: scale(1.06);
 }
+.info:hover{
+  transition: all;
+  transform: scale(1.06);
+}
+.info{
+  transition: all;
+  z-index: 3;
+}
