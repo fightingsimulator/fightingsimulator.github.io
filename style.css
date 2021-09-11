@@ -77,3 +77,21 @@ body{
   transition: all;
   transform: scale(1.06);
 }
+.more{
+  color: white;
+  background-color: lightblue;
+  margin-left: 300px;
+  margin-top: 30px;
+  margin-right: 300px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  border-radius: 60px;
+  font-family: impact;
+  font-size: 60px;
+  transition: 1s all;
+  cursor: default;
+}
+.more:hover{
+  transition: all;
+  transform: scale(1.06);
+}

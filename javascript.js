@@ -6,3 +6,7 @@ function onClickFunction2() {
   window.open("https://www.roblox.com/games/7453220634/fight-simulator");
   console.log("los");
 }
+function onClickFunction3() {
+  window.open("https://danil123212.github.io/");
+  console.log("los");
+}
