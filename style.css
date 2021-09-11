@@ -20,16 +20,17 @@ body{
   z-index: 2;
   font-family: impact;
   transition: 1s all;
+  cursor: default;
 }
 .fight:hover{
   transition: all;
   transform: scale(1.06);
 }
 .info:hover{
-  transition: all;
-  transform: scale(1.06);
+  cursor: default;
 }
 .info{
   transition: all;
   z-index: 3;
+  font-size: 20px;
 }
