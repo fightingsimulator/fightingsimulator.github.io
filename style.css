@@ -21,3 +21,7 @@ body{
   font-family: impact;
   transition: 1s all;
 }
+.fight:hover{
+  transition: all;
+  font-size: 52px;
+}
