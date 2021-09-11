@@ -23,5 +23,5 @@ body{
 }
 .fight:hover{
   transition: all;
-  transform: scale(60px);
+  transform: scale(1.06);
 }
