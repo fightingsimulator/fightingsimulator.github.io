@@ -7,6 +7,6 @@ function onClickFunction2() {
   console.log("los");
 }
 function onClickFunction3() {
-  window.open("https://danil123212.github.io/");
+  window.open("https://fightingsimulatormore.github.io/");
   console.log("los");
 }
