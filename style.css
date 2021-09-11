@@ -43,10 +43,15 @@ body{
   color: darkred;
 }
 .buttonD{
-  background-image: url(https://cdn.discordapp.com/attachments/590932607466733568/886299015354916925/wxxrjier3yi_16xps.rfO28.jpg);
+  background-color: #9370DB;
   margin-left: 300px;
   margin-right: 300px;
   padding-top: 20px;
-  padding-bottom: 70px;
+  padding-bottom: 40px;
   border-radius: 60px;
+  font-family: impact;
+  font-size: 60px;
+  color: white;
+  transition: 1s all;
+  cursor: default;
 }
