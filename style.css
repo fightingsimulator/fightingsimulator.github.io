@@ -32,5 +32,12 @@ body{
 .info{
   transition: all;
   z-index: 3;
-  font-size: 20px;
+  font-size: 30px;
+  color: darkblue;
+}
+.eng{
+  transition: all;
+  z-index: 3;
+  font-size: 30px;
+  color: darkred;
 }
