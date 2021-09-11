@@ -21,6 +21,7 @@ body{
   font-family: impact;
   transition: 1s all;
   cursor: default;
+  border-radius: 10px;
 }
 .fight:hover{
   transition: all;
@@ -40,4 +41,12 @@ body{
   z-index: 3;
   font-size: 30px;
   color: darkred;
+}
+.buttonD{
+  background-image: url(https://cdn.discordapp.com/attachments/590932607466733568/886299015354916925/wxxrjier3yi_16xps.rfO28.jpg);
+  margin-left: 400px;
+  margin-right: 400px;
+  padding-top: 20px;
+  padding-bottom: 70px;
+  border-radius: 60px;
 }
