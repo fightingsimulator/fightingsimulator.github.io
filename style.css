@@ -55,3 +55,7 @@ body{
   transition: 1s all;
   cursor: default;
 }
+.buttonD:hover{
+  transition: all;
+  transform: scale(1.06);
+}
