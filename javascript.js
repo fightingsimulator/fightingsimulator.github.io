@@ -3,7 +3,7 @@ function onClickFunction() {
   console.log("los");
 }
 function onClickFunction2() {
-  window.open("https://www.roblox.com/games/7453220634/fight-simulator");
+  window.open("https://www.roblox.com/games/7461870190/anime-fighting-simulator");
   console.log("los");
 }
 function onClickFunction3() {
